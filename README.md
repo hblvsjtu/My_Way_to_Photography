@@ -32,14 +32,14 @@
 > - 按结构分：单电相机、旁轴相机、单镜头反光相机、双镜头反光相机、大画幅相机
 #### 2) 结构分类
 > - 单镜头反光相机：镜头+反光镜+胶片+五棱镜+取景器
->>>>>> ![图1-1 单反光路.png](https://github.com/hblvsjtu/Java_Study/blob/master/picture/%E5%9B%BE1-6%20%E5%8C%85%E8%A3%85%E7%B1%BB.jpg?raw=true)
->>>>>> ![图1-2 内部结构图.png](https://github.com/hblvsjtu/Java_Study/blob/master/picture/%E5%9B%BE1-6%20%E5%8C%85%E8%A3%85%E7%B1%BB.jpg?raw=true)
+>>>>>> ![图1-1 单反光路.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-1%20%E5%8D%95%E5%8F%8D%E5%85%89%E8%B7%AF.png?raw=true)
+>>>>>> ![图1-2 内部结构图.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-2%20%E5%8D%95%E5%8F%8D%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84%E5%9B%BE.png?raw=true)
 > - 双镜头反光相机：缺少五棱镜，取景时左右颠倒，所见并非所得
->>>>>> ![图1-3 双反结构图.png](https://github.com/hblvsjtu/Java_Study/blob/master/picture/%E5%9B%BE1-6%20%E5%8C%85%E8%A3%85%E7%B1%BB.jpg?raw=true)
+>>>>>> ![图1-3 双反结构图.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-3%20%E5%8F%8C%E5%8F%8D%E7%BB%93%E6%9E%84%E5%9B%BE.png?raw=true)
 > - 旁轴相机：比如徕卡的旁轴相机比较出名，因为取景和曝光是两条光路，所以也是所见非所得
->>>>>> ![图1-4 旁轴结构图.png](https://github.com/hblvsjtu/Java_Study/blob/master/picture/%E5%9B%BE1-6%20%E5%8C%85%E8%A3%85%E7%B1%BB.jpg?raw=true)
+>>>>>> ![图1-4 旁轴结构图.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-4%20%E6%97%81%E8%BD%B4%E7%BB%93%E6%9E%84%E5%9B%BE.png?raw=true)
 > - 单电：取景和曝光都是用电信号，轻便
->>>>>> ![图1-5 单电结构图](https://github.com/hblvsjtu/Java_Study/blob/master/picture/%E5%9B%BE1-6%20%E5%8C%85%E8%A3%85%E7%B1%BB.jpg?raw=true)
+>>>>>> ![图1-5 单电结构图](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-5%20%E5%8D%95%E7%94%B5%E7%BB%93%E6%9E%84%E5%9B%BE.png?raw=true)
 > - 大画幅相机：结构简单，但是操作复杂
->>>>>> ![图1-6 大画幅相机光路.png](https://github.com/hblvsjtu/Java_Study/blob/master/picture/%E5%9B%BE1-6%20%E5%8C%85%E8%A3%85%E7%B1%BB.jpg?raw=true)
+>>>>>> ![图1-6 大画幅相机光路.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-6%20%E5%A4%A7%E7%94%BB%E5%B9%85%E7%9B%B8%E6%9C%BA%E5%85%89%E8%B7%AF.png?raw=true)
 > - 
