@@ -48,11 +48,19 @@
 >>>>>> ![图1-7 传统胶片与135全幅](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-7%20%E4%BC%A0%E7%BB%9F%E8%83%B6%E7%89%87%E4%B8%8E135%E5%85%A8%E5%B9%85.png?raw=true)
 > - 全画幅与残画幅，不同的厂商对于残画幅的尺寸不尽相同，残画幅成本低
 >>>>>> ![图1-8 全画幅和残画幅.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-8%20%E5%85%A8%E7%94%BB%E5%B9%85%E5%92%8C%E6%AE%8B%E7%94%BB%E5%B9%85.png?raw=true)
-<h3 id='1.2'>1.2 镜头的分类</h3>  
+<h3 id='1.2'>1.2 镜头</h3>  
         
 #### 1) 焦距
 > - 成像中心到焦平面的距离
 >>>>>> ![图1-9 焦距.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-9%20%E7%84%A6%E8%B7%9D.png?raw=true)
 > - 焦距不同，看到的视角范围也是不一样的。以标准镜头50mm焦距为标准。而所谓的标准镜头，则指的是焦距长度和所摄画幅的对角线大致相等的摄影镜头。焦距小于50mm的为广角镜头，能看到更广阔的视野范围；大于50mm的为长焦镜头，能看到更远处的视野；
 >>>>>> ![图1-10 焦距与视角的关系.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-10%20%E7%84%A6%E8%B7%9D%E4%B8%8E%E8%A7%86%E8%A7%92%E7%9A%84%E5%85%B3%E7%B3%BB.png?raw=true)
+> - 对于全画幅相机而言，镜头的焦距则等于实际的焦距，但是对于残画幅相机，实际的焦距等于镜头焦距再乘以一个等效系数，我猜这个等效系数跟残画幅面积与全画幅面积之比有关。
+> - 常见的等效系数：
+>> - 佳能的aps-c相机： x1.6; 
+>> - 尼康、sony、宾得的aps-c相机： x1.5; 
+>> - 4/3系统（松下，奥林巴斯）： x2.0; 
+#### 2) 外部解析
+> - 有三个比较重要的部件：对焦环、变焦环和光圈环；
+>>>>>> ![图1-11 镜头外部解析.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-10%20%E7%84%A6%E8%B7%9D%E4%B8%8E%E8%A7%86%E8%A7%92%E7%9A%84%E5%85%B3%E7%B3%BB.png?raw=true)
 > - 
