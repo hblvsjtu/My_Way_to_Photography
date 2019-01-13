@@ -30,7 +30,7 @@
 #### 1) 相机的属性
 > - 结构和画幅
 > - 按结构分：单电相机、旁轴相机、单镜头反光相机、双镜头反光相机、大画幅相机
-> - 按画幅分：
+> - 按画幅分：全画幅和残画幅
 #### 2) 结构
 > - 单镜头反光相机：镜头+反光镜+胶片+五棱镜+取景器
 >>>>>> ![图1-1 单反光路.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-1%20%E5%8D%95%E5%8F%8D%E5%85%89%E8%B7%AF.png?raw=true)
@@ -45,14 +45,14 @@
 >>>>>> ![图1-6 大画幅相机光路.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-6%20%E5%A4%A7%E7%94%BB%E5%B9%85%E7%9B%B8%E6%9C%BA%E5%85%89%E8%B7%AF.png?raw=true)
 #### 3) 画幅
 > - 传统胶片与135全幅
->>>>>> ![图1-7 传统胶片与135全幅](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-6%20%E5%A4%A7%E7%94%BB%E5%B9%85%E7%9B%B8%E6%9C%BA%E5%85%89%E8%B7%AF.png?raw=true)
+>>>>>> ![图1-7 传统胶片与135全幅](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-7%20%E4%BC%A0%E7%BB%9F%E8%83%B6%E7%89%87%E4%B8%8E135%E5%85%A8%E5%B9%85.png?raw=true)
 > - 全画幅与残画幅，不同的厂商对于残画幅的尺寸不尽相同，残画幅成本低
->>>>>> ![图1-8 全画幅和残画幅.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-6%20%E5%A4%A7%E7%94%BB%E5%B9%85%E7%9B%B8%E6%9C%BA%E5%85%89%E8%B7%AF.png?raw=true)
+>>>>>> ![图1-8 全画幅和残画幅.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-8%20%E5%85%A8%E7%94%BB%E5%B9%85%E5%92%8C%E6%AE%8B%E7%94%BB%E5%B9%85.png?raw=true)
 <h3 id='1.2'>1.2 镜头的分类</h3>  
         
 #### 1) 焦距
 > - 成像中心到焦平面的距离
->>>>>> ![图1-9 焦距.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-6%20%E5%A4%A7%E7%94%BB%E5%B9%85%E7%9B%B8%E6%9C%BA%E5%85%89%E8%B7%AF.png?raw=true)
-> - 焦距不同，看到的视角范围也是不一样的
->>>>>> ![图1-10 焦距与视角的关系.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-6%20%E5%A4%A7%E7%94%BB%E5%B9%85%E7%9B%B8%E6%9C%BA%E5%85%89%E8%B7%AF.png?raw=true)
+>>>>>> ![图1-9 焦距.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-9%20%E7%84%A6%E8%B7%9D.png?raw=true)
+> - 焦距不同，看到的视角范围也是不一样的。以标准镜头50mm焦距为标准。而所谓的标准镜头，则指的是焦距长度和所摄画幅的对角线大致相等的摄影镜头。焦距小于50mm的为广角镜头，能看到更广阔的视野范围；大于50mm的为长焦镜头，能看到更远处的视野；
+>>>>>> ![图1-10 焦距与视角的关系.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-10%20%E7%84%A6%E8%B7%9D%E4%B8%8E%E8%A7%86%E8%A7%92%E7%9A%84%E5%85%B3%E7%B3%BB.png?raw=true)
 > - 
