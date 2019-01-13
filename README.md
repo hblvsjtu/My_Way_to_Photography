@@ -62,5 +62,5 @@
 >> - 4/3系统（松下，奥林巴斯）： x2.0; 
 #### 2) 外部解析
 > - 有三个比较重要的部件：对焦环、变焦环和光圈环；
->>>>>> ![图1-11 镜头外部解析.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-10%20%E7%84%A6%E8%B7%9D%E4%B8%8E%E8%A7%86%E8%A7%92%E7%9A%84%E5%85%B3%E7%B3%BB.png?raw=true)
+>>>>>> ![图1-11 镜头外部解析.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-11%20%E9%95%9C%E5%A4%B4%E5%A4%96%E9%83%A8%E8%A7%A3%E6%9E%90.png?raw=true)
 > - 
