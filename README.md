@@ -19,18 +19,19 @@
 ## 目录
 ## [一、相机的基本原理与镜头分类](#1)
 ### [1.1 相机的基本原理](#1.1)
-### [1.2 需要用到的工具或者库](#1.2)
+### [1.2 镜头的分类](#1.2)
 ### [1.3 为什么要使用MERN技术栈](#1.3)
         
 ------      
         
-<h2 id='1'>一、相机的基本原理与镜头分类</h2>
+<h2 id='1'>一、相机的基本原理</h2>
 <h3 id='1.1'>1.1 相机的基本原理</h3>  
         
 #### 1) 相机的属性
 > - 结构和画幅
 > - 按结构分：单电相机、旁轴相机、单镜头反光相机、双镜头反光相机、大画幅相机
-#### 2) 结构分类
+> - 按画幅分：
+#### 2) 结构
 > - 单镜头反光相机：镜头+反光镜+胶片+五棱镜+取景器
 >>>>>> ![图1-1 单反光路.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-1%20%E5%8D%95%E5%8F%8D%E5%85%89%E8%B7%AF.png?raw=true)
 >>>>>> ![图1-2 内部结构图.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-2%20%E5%8D%95%E5%8F%8D%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84%E5%9B%BE.png?raw=true)
@@ -42,4 +43,16 @@
 >>>>>> ![图1-5 单电结构图](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-5%20%E5%8D%95%E7%94%B5%E7%BB%93%E6%9E%84%E5%9B%BE.png?raw=true)
 > - 大画幅相机：结构简单，但是操作复杂
 >>>>>> ![图1-6 大画幅相机光路.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-6%20%E5%A4%A7%E7%94%BB%E5%B9%85%E7%9B%B8%E6%9C%BA%E5%85%89%E8%B7%AF.png?raw=true)
+#### 3) 画幅
+> - 传统胶片与135全幅
+>>>>>> ![图1-7 传统胶片与135全幅](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-6%20%E5%A4%A7%E7%94%BB%E5%B9%85%E7%9B%B8%E6%9C%BA%E5%85%89%E8%B7%AF.png?raw=true)
+> - 全画幅与残画幅，不同的厂商对于残画幅的尺寸不尽相同，残画幅成本低
+>>>>>> ![图1-8 全画幅和残画幅.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-6%20%E5%A4%A7%E7%94%BB%E5%B9%85%E7%9B%B8%E6%9C%BA%E5%85%89%E8%B7%AF.png?raw=true)
+<h3 id='1.2'>1.2 镜头的分类</h3>  
+        
+#### 1) 焦距
+> - 成像中心到焦平面的距离
+>>>>>> ![图1-9 焦距.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-6%20%E5%A4%A7%E7%94%BB%E5%B9%85%E7%9B%B8%E6%9C%BA%E5%85%89%E8%B7%AF.png?raw=true)
+> - 焦距不同，看到的视角范围也是不一样的
+>>>>>> ![图1-10 焦距与视角的关系.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE1-6%20%E5%A4%A7%E7%94%BB%E5%B9%85%E7%9B%B8%E6%9C%BA%E5%85%89%E8%B7%AF.png?raw=true)
 > - 
