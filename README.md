@@ -31,6 +31,9 @@
 ## [四、培养你的眼力](#4)
 ### [4.1 突出重点法](#4.1)
 ### [4.2 避免常见的错误](#4.2)
+## [五、光](#5)
+### [5.1 自然光](#5.1)
+### [5.2 现场光](#5.2)
 
         
 ------      
@@ -149,6 +152,7 @@
 > - 因为平均场景中的光线经过平均后得到的大约是18%的灰色影调
 > - 虽然测光表推荐的是18%的灰色影调，但是实质上测量的是光线的反射率
 > - 因为面对诸如白雪或者黑炭这样的完全偏离平均场景的光线，使用18%的灰色影调进行曝光就会出现偏差，这也是为什么我们需要“白加黑减”的原因
+                
 <h3 id='3.2'>3.2 宽容度</h3>  
         
 #### 1) 什么是胶片的宽容度
@@ -178,32 +182,32 @@
 #### 1) 通过布局突出重点
 > - 实景与实景照片的主要区别在于照片是受四条边框的限制，而实景是连续不断的，观众可以把注意力移向周边任何部分；
 > - 用得最多的是放置中心或者是黄金分割的位置，但也有放在边框处，这都取决于拍摄者对于被摄对象的态度。
->>>>>> ![图4-1 通过布局突出重点1.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
->>>>>> ![图4-2 通过布局突出重点2.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+>>>>>> ![图4-1 通过布局突出重点1.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-1%20%E9%80%9A%E8%BF%87%E5%B8%83%E5%B1%80%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B91.png?raw=true)
+>>>>>> ![图4-2 通过布局突出重点2.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-2%20%E9%80%9A%E8%BF%87%E5%B8%83%E5%B1%80%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B92.png?raw=true)
                 
 #### 2) 通过物体大小或者距离空间感突出重点
->>>>>> ![图4-1 通过大小突出重点1.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
->>>>>> ![图4-4 通过大小突出重点2.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+>>>>>> ![图4-3 通过大小突出重点1.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-3%20%E9%80%9A%E8%BF%87%E5%A4%A7%E5%B0%8F%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B91.png?raw=true)
+>>>>>> ![图4-4 通过大小突出重点2.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-4%20%E9%80%9A%E8%BF%87%E5%A4%A7%E5%B0%8F%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B92.png?raw=true)
             
 #### 3) 通过搭画框突出重点
 > - 适用于被摄物由于尺寸较小而无法主导画面的时候，可以使用搭画框的技法
->>>>>> ![图4-5 通过搭画框突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+>>>>>> ![图4-5 通过搭画框突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-5%20%E9%80%9A%E8%BF%87%E6%90%AD%E7%94%BB%E6%A1%86%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
                 
 #### 4) 通过用光突出重点
 > - 运用光线和阴影创造出神秘的画面
->>>>>> ![图4-6 通过光影突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+>>>>>> ![图4-6 通过光影突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-6%20%E9%80%9A%E8%BF%87%E5%85%89%E5%BD%B1%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
                 
 #### 5) 通过汇聚线突出重点
->>>>>> ![图4-7 通过汇聚线突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+>>>>>> ![图4-7 通过汇聚线突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-7%20%E9%80%9A%E8%BF%87%E6%B1%87%E8%81%9A%E7%BA%BF%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
                 
 #### 6) 通过选择焦点突出重点
         
 #### 7) 通过重复突出重点
->>>>>> ![图4-8 通过重复突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+>>>>>> ![图4-8 通过重复突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-8%20%E9%80%9A%E8%BF%87%E9%87%8D%E5%A4%8D%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
                 
 #### 8) 通过动作突出重点
 > - 使用追随拍摄的手段，同时提高快门时间
->>>>>> ![图4-9 通过动作突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+>>>>>> ![图4-9 通过动作突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-9%20%E9%80%9A%E8%BF%87%E5%8A%A8%E4%BD%9C%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
                 
 <h3 id='4.2'>4.2 避免常见的错误</h3>  
         
@@ -214,3 +218,40 @@
 > - 切忌出现人物头部“长树”的情况
 #### 3) 为曝光区域
 > - 如忘取走镜头盖
+      
+        
+<h2 id='5'>五、光</h2>
+<h3 id='5.1'>5.1 自然光</h3>  
+        
+#### 1) 基本特性
+> - 明暗度
+> - 方向
+> - 色彩
+#### 2) 四个基本方向
+> - 正面光
+>> - 被摄对象没有一点阴影，几乎没有色调和层次，所以也叫平光
+>> - 正面光是有高位和低位之分，高位正面光打在人脸上给眼窝和鼻子下面投下很深的阴影
+>>>>>> ![图5-1 正面光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-9%20%E9%80%9A%E8%BF%87%E5%8A%A8%E4%BD%9C%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
+                
+> - 45°侧光
+>> - 出现在上午九十点钟和下午三四点钟
+>> - 被称为人像摄影的最佳光线类型，室内拍摄的主要光线
+>>>>>> ![图5-2 45°侧光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-9%20%E9%80%9A%E8%BF%87%E5%8A%A8%E4%BD%9C%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
+                
+> - 90°侧光
+>> - 用来强调光明与黑暗强烈对比的戏剧性光线
+>> - 物体表面的质感在强烈的阴影下更为显著，所以又称为“结构光”
+>> - 人像摄影避免使用
+>> - 要非常注重产生的阴影，因为构图中阴影的作用与高光的作用同样重要
+>>>>>> ![图5-3 90°侧光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-9%20%E9%80%9A%E8%BF%87%E5%8A%A8%E4%BD%9C%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
+                
+> - 逆光
+>> - “轮廓光”
+>> - 高反差场景
+>>>>>> ![图5-4 逆光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-9%20%E9%80%9A%E8%BF%87%E5%8A%A8%E4%BD%9C%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
+              
+#### 3) 怎么在室内拍摄人像
+> - 避免正面光使得人眯眼或者给鼻子和眼窝留下巨大的阴影
+> - 选择一个多云阴天的日子或者在树荫下
+> - 使用反光板对阴影部位进行补光
+>>>>>> ![图5-5 人像.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-9%20%E9%80%9A%E8%BF%87%E5%8A%A8%E4%BD%9C%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
