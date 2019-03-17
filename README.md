@@ -34,6 +34,7 @@
 ## [五、光](#5)
 ### [5.1 自然光](#5.1)
 ### [5.2 现场光](#5.2)
+### [5.3 人造光](#5.3)
 
         
 ------      
@@ -231,27 +232,71 @@
 > - 正面光
 >> - 被摄对象没有一点阴影，几乎没有色调和层次，所以也叫平光
 >> - 正面光是有高位和低位之分，高位正面光打在人脸上给眼窝和鼻子下面投下很深的阴影
->>>>>> ![图5-1 正面光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-9%20%E9%80%9A%E8%BF%87%E5%8A%A8%E4%BD%9C%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
+>>>>>> ![图5-1 正面光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-1%20%E6%AD%A3%E9%9D%A2%E5%85%89.jpg?raw=true)
                 
 > - 45°侧光
 >> - 出现在上午九十点钟和下午三四点钟
 >> - 被称为人像摄影的最佳光线类型，室内拍摄的主要光线
->>>>>> ![图5-2 45°侧光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-9%20%E9%80%9A%E8%BF%87%E5%8A%A8%E4%BD%9C%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
+>>>>>> ![图5-2 45°侧光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-2%2045%C2%B0%E4%BE%A7%E5%85%89.jpg?raw=true)
                 
 > - 90°侧光
 >> - 用来强调光明与黑暗强烈对比的戏剧性光线
 >> - 物体表面的质感在强烈的阴影下更为显著，所以又称为“结构光”
 >> - 人像摄影避免使用
 >> - 要非常注重产生的阴影，因为构图中阴影的作用与高光的作用同样重要
->>>>>> ![图5-3 90°侧光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-9%20%E9%80%9A%E8%BF%87%E5%8A%A8%E4%BD%9C%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
+>>>>>> ![图5-3 90°侧光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-3%2090%C2%B0%E4%BE%A7%E5%85%89.jpg?raw=true)
                 
 > - 逆光
 >> - “轮廓光”
 >> - 高反差场景
->>>>>> ![图5-4 逆光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-9%20%E9%80%9A%E8%BF%87%E5%8A%A8%E4%BD%9C%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
+>>>>>> ![图5-4 逆光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-4%20%E9%80%86%E5%85%89.jpg?raw=true)
               
 #### 3) 怎么在室内拍摄人像
 > - 避免正面光使得人眯眼或者给鼻子和眼窝留下巨大的阴影
 > - 选择一个多云阴天的日子或者在树荫下
 > - 使用反光板对阴影部位进行补光
->>>>>> ![图5-5 人像.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE4-9%20%E9%80%9A%E8%BF%87%E5%8A%A8%E4%BD%9C%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9.jpg?raw=true)
+>>>>>> ![图5-5 人像.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
+                
+<h3 id='5.2'>5.2 现场光</h3>  
+        
+#### 1) 含义
+> - 场景中存在的光，而非户外的日光或者摄影室人工照明
+> - 通常要暗一点，但要强调的就是这种灰暗的阴影部分
+#### 2) 为什么使用现场光
+> - 富有真实感和情调  你可以使用闪光灯进行补光，但正是照明不足的现场光才显得真实感。如果你的相机宽容度不够，需要牺牲一部分细节的时候，一般牺牲阴影部分的细节，保留强光和中间色调部分的细节。此时你需要对强光和中间色调部分的细节进行曝光，然后向右曝光1-2档。
+> - 摄影者使用起来方便自如
+> - 被摄对象容易放松
+>>>>>> ![图5-6 现场光1.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
+>>>>>> ![图5-7 现场光2.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
+>>>>>> ![图5-8 现场光3.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
+>>>>>> ![图5-9 现场光4.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
+                
+<h3 id='5.3'>5.3 人造光</h3>  
+        
+#### 1) 基本设备
+> - 无缝背景纸
+> - 标准250瓦泛光灯（1号灯）和标准500瓦泛光灯（2号灯）如果使用更狭窄的反光罩，则为聚光灯
+>>>>>> ![图5-10 泛光灯.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
+>>>>>> ![图5-11 聚光灯.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
+> - 反光伞 可以获取比泛光灯发出的更为柔和且方向性更弱的光，缺点是你无法像窄光灯那样对它进行精确控制。比较适合室内肖像摄影
+>>>>>> ![图5-12 反光伞.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
+                
+> - 题外话：3200K的光线表示是什么？表示钨丝灯发光时绝对温标为3200K。低温下为红色，随着光源温度不断升高，光线会变黄；当温度持续升高则会变蓝
+#### 2) 家庭摄影室的布置
+> - 3个250瓦标准摄影泛光灯泡
+> - 3个泛灯光罩
+> - 1个聚光灯罩
+> - 三个灯架
+> - 延长线和多路插座
+> - 1章40cm X 50cm 的白色硬纸板作为反光板，一面贴上铝箔，另一面贴上弄皱后再展平的铝箔，这样你就会得到两面亮度不同的双面反光板，其中一面比另一面要亮。
+#### 3) 基本布光过程
+> - 主光  
+>> - 泛光灯作为主光源，一般放置与主体成45°角
+>> - 一盏关键灯制造出很强的高光区和深色阴影
+> - 辅助灯 
+>> - 主要作用是为阴影补充一些光线，以便突出阴影部分的细节。
+>> - 但是切记功率大于或者等于主灯(一般为主灯的1/3)，避免产生另一个与主灯产生阴影互相抗衡的阴影。
+>> - 一般来讲，我们会把辅助灯靠近镜头直射主题，以便减少主题前部的反差和阴影的深度。
+> - 背景灯
+>> - 照亮背景
+>>>>>> ![图5-13 基本布光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
