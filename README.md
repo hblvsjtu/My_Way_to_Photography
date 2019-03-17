@@ -35,6 +35,8 @@
 ### [5.1 自然光](#5.1)
 ### [5.2 现场光](#5.2)
 ### [5.3 人造光](#5.3)
+## [六、完美的照片](#6)
+### [6.1 案例分析](#6.1)
 
         
 ------      
@@ -266,20 +268,20 @@
 > - 富有真实感和情调  你可以使用闪光灯进行补光，但正是照明不足的现场光才显得真实感。如果你的相机宽容度不够，需要牺牲一部分细节的时候，一般牺牲阴影部分的细节，保留强光和中间色调部分的细节。此时你需要对强光和中间色调部分的细节进行曝光，然后向右曝光1-2档。
 > - 摄影者使用起来方便自如
 > - 被摄对象容易放松
->>>>>> ![图5-6 现场光1.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
->>>>>> ![图5-7 现场光2.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
->>>>>> ![图5-8 现场光3.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
->>>>>> ![图5-9 现场光4.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
+>>>>>> ![图5-6 现场光1.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-6%20%E7%8E%B0%E5%9C%BA%E5%85%891.jpg?raw=true)
+>>>>>> ![图5-7 现场光2.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-7%20%E7%8E%B0%E5%9C%BA%E5%85%892.jpg?raw=true)
+>>>>>> ![图5-8 现场光3.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-8%20%E7%8E%B0%E5%9C%BA%E5%85%893.jpg?raw=true)
+>>>>>> ![图5-9 现场光4.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-9%20%E7%8E%B0%E5%9C%BA%E5%85%894.jpg?raw=true)
                 
 <h3 id='5.3'>5.3 人造光</h3>  
         
 #### 1) 基本设备
 > - 无缝背景纸
 > - 标准250瓦泛光灯（1号灯）和标准500瓦泛光灯（2号灯）如果使用更狭窄的反光罩，则为聚光灯
->>>>>> ![图5-10 泛光灯.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
->>>>>> ![图5-11 聚光灯.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
+>>>>>> ![图5-10 泛光灯.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-10%20%E6%B3%9B%E5%85%89%E7%81%AF.jpg?raw=true)
+>>>>>> ![图5-11 聚光灯.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-11%20%E8%81%9A%E5%85%89%E7%81%AF.jpg?raw=true)
 > - 反光伞 可以获取比泛光灯发出的更为柔和且方向性更弱的光，缺点是你无法像窄光灯那样对它进行精确控制。比较适合室内肖像摄影
->>>>>> ![图5-12 反光伞.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
+>>>>>> ![图5-12 反光伞.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-12%20%E5%8F%8D%E5%85%89%E4%BC%9E.jpg?raw=true)
                 
 > - 题外话：3200K的光线表示是什么？表示钨丝灯发光时绝对温标为3200K。低温下为红色，随着光源温度不断升高，光线会变黄；当温度持续升高则会变蓝
 #### 2) 家庭摄影室的布置
@@ -299,4 +301,16 @@
 >> - 一般来讲，我们会把辅助灯靠近镜头直射主题，以便减少主题前部的反差和阴影的深度。
 > - 背景灯
 >> - 照亮背景
->>>>>> ![图5-13 基本布光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-5%20%E4%BA%BA%E5%83%8F.jpg?raw=true)
+>>>>>> ![图5-13 基本布光.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-13%20%E5%9F%BA%E6%9C%AC%E5%B8%83%E5%85%89.jpg?raw=true)
+      
+        
+<h2 id='6'>六、完美的照片</h2>
+<h3 id='6.1'>6.1 案例分析</h3>  
+        
+#### 1) 分析思路
+> - 作者是谁？
+> - 主题？
+> - 如何把注意力集中在拍摄对象上？
+> - 怎么简化？
+> - 评价如何？
+>>>>>> ![图6-1 案例分析.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE5-13%20%E5%9F%BA%E6%9C%AC%E5%B8%83%E5%85%89.jpg?raw=true)
