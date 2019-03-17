@@ -329,7 +329,7 @@
 > - 最典型的是采用展示四分之三人像的方法
 > - 这种用光与正常的用光方式不同，离开照相机的脸部一侧被照明，而朝向照相机的那一侧的脸却处在阴影部位。确保光线照在远离相机的那半边脸。请被摄者朝着相机转动头部，直到看到对着相机那半边脸在阴影一侧的眼睛和上颚骨周围有余光为止。
 > - 这种方法能够清楚有理的再现面部骨骼结构和鼻子形状。因此这种方法通常更适用于拍摄男人肖像。
->>>>>> ![图7-5 伦勃朗用光法.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE7-1%20%E4%B8%89%E8%A7%92%E5%BD%A2%E4%BA%AE%E5%8C%BA.jpg?raw=true)
+>>>>>> ![图7-5 伦勃朗用光法.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE7-5%20%E4%BC%A6%E5%8B%83%E6%9C%97%E7%94%A8%E5%85%89%E6%B3%95.jpg?raw=true)
 
 <h3 id='7.2'>7.2 基本用光法</h3>  
                     
@@ -396,4 +396,4 @@
 > - 侧面人像
 #### 5) 缺陷矫正
 > - 伦勃朗用光法和四分之三人像真的很常用
->>>>>> ![图7-6 缺陷矫正.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE7-4%20%E4%BD%BF%E7%94%A8%E4%B8%BB%E7%81%AF%E5%92%8C%E8%BE%85%E5%8A%A9%E7%81%AF%E5%92%8C%E8%83%8C%E6%99%AF%E7%81%AF%E5%92%8C%E5%8F%91%E7%81%AF.jpg?raw=true)
+>>>>>> ![图7-6 缺陷矫正.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE7-6%20%E7%BC%BA%E9%99%B7%E7%9F%AB%E6%AD%A3.jpg?raw=true)
