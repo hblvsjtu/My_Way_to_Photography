@@ -28,6 +28,9 @@
 ## [三、曝光](#3)
 ### [3.1 测光表与18%的灰色影调](#3.1)
 ### [3.2 宽容度](#3.2)
+## [四、培养你的眼力](#4)
+### [4.1 突出重点法](#4.1)
+### [4.2 避免常见的错误](#4.2)
 
         
 ------      
@@ -136,7 +139,7 @@
 > - 对于标准镜头，一般要小于1/60s，本书则要求小于1/125s或者1/250s
 > - 经验法则，低于1/焦距s或者低于1/2倍焦距s
       
-
+        
 <h2 id='3'>三、曝光</h2>
 <h3 id='3.1'>3.1 测光表与18%的灰色影调</h3>  
         
@@ -166,3 +169,48 @@
 > - 第一种方法：首先尽量对脸部进行测光，然后锁定这一曝光，退后进行拍摄，这也是大多数自动曝光相机上“曝光锁”按键的作用
 > - 第二种方法：逆光按键，自动开大1档或者2档光圈
 > - 第三种方法：想办法给被摄对象脸部补光
+      
+        
+<h2 id='4'>四、培养你的眼力</h2>
+<h3 id='4.1'>4.1 突出重点法</h3>  
+主要牵涉到如何把观众的注意力吸引到被摄主体身上。
+
+#### 1) 通过布局突出重点
+> - 实景与实景照片的主要区别在于照片是受四条边框的限制，而实景是连续不断的，观众可以把注意力移向周边任何部分；
+> - 用得最多的是放置中心或者是黄金分割的位置，但也有放在边框处，这都取决于拍摄者对于被摄对象的态度。
+>>>>>> ![图4-1 通过布局突出重点1.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+>>>>>> ![图4-2 通过布局突出重点2.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+                
+#### 2) 通过物体大小或者距离空间感突出重点
+>>>>>> ![图4-1 通过大小突出重点1.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+>>>>>> ![图4-4 通过大小突出重点2.png](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+            
+#### 3) 通过搭画框突出重点
+> - 适用于被摄物由于尺寸较小而无法主导画面的时候，可以使用搭画框的技法
+>>>>>> ![图4-5 通过搭画框突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+                
+#### 4) 通过用光突出重点
+> - 运用光线和阴影创造出神秘的画面
+>>>>>> ![图4-6 通过光影突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+                
+#### 5) 通过汇聚线突出重点
+>>>>>> ![图4-7 通过汇聚线突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+                
+#### 6) 通过选择焦点突出重点
+        
+#### 7) 通过重复突出重点
+>>>>>> ![图4-8 通过重复突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+                
+#### 8) 通过动作突出重点
+> - 使用追随拍摄的手段，同时提高快门时间
+>>>>>> ![图4-9 通过动作突出重点.jpg](https://github.com/hblvsjtu/My_Way_to_Photography/blob/master/picture/%E5%9B%BE2-1%20%E5%BF%AB%E9%97%A8%E7%B1%BB%E5%9E%8B.png?raw=true)
+                
+<h3 id='4.2'>4.2 避免常见的错误</h3>  
+        
+#### 1) 取景太近
+> - 导致后期无法剪裁
+> - 由于透视使得前景发生畸变
+#### 2) 留意背景
+> - 切忌出现人物头部“长树”的情况
+#### 3) 为曝光区域
+> - 如忘取走镜头盖
